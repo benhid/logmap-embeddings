@@ -1,0 +1,7 @@
+Owlready2==0.36
+gensim==4.1.2
+nltk==3.7
+spacy==3.2.3
+matplotlib
+karateclub==1.2.3
+networkx
